@@ -50,8 +50,7 @@ for (int i = 0; i < arr.GetLength(0); i++)
 Console.WriteLine(sum);
 
 
-//task
-//Console.WriteLine(arr3);
+
 
 
 
